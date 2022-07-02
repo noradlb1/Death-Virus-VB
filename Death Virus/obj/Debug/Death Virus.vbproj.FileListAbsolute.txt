@@ -1,0 +1,16 @@
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\bin\Debug\Death Virus.exe.config
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\bin\Debug\Death Virus.exe
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\bin\Debug\Death Virus.pdb
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\bin\Debug\Interop.WMPLib.dll
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\obj\Debug\Death Virus.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\obj\Debug\Interop.WMPLib.dll
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\obj\Debug\Death Virus.vbproj.ResolveComReference.cache
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\obj\Debug\Death_Virus.Death_Virus.resources
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\obj\Debug\Death_Virus.Form2.resources
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\obj\Debug\Death Virus.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\obj\Debug\Death Virus.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\obj\Debug\Death Virus.exe
+C:\Users\MONSTERMC\Downloads\New folder (2)\Death Virus\obj\Debug\Death Virus.pdb
